@@ -1,1 +1,15 @@
+{
+  "students": [
+    { "id": 1, "name": "Miguel Del Mundo", "course": "Computer Science" },
+    { "id": 2, "name": "Fea Navarro", "course": "Information Technology" },
+    { "id": 3, "name": "Kim Dichoso", "course": "Software Engineering" },
+    { "id": 4, "name": "Ian Christoper Nebasa", "course": "Information System"},
+    { "id": 5, "name": "Allyssa May Villaneuva", "course": "Information Technology"},
+    { "id": 6, "name": "Miguel Reyes", "course": "Computer Science"},
+    { "id": 7, "name": "Miguel Pineda", "course": "Software Engineer"},
+    { "id": 8, "name": "Sky Raiden Bautista", "course": "Information System"},
+    { "id": 9, "name": "Anakin Letim", "course": "Computer Engineering"},
+    { "id": 10, "name": "Kyrlle Faustico", "course": "Entertainment Multimedia Computing"},
+  ]
+}
 
