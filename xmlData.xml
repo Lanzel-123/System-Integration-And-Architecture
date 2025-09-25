@@ -1,1 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>1</id>
+    <name>Miguel Del Mundo</name>
+    <course>Computer Science</course>
+  </student>
+  <student>
+    <id>2</id>
+    <name>Fea Navarro</name>
+    <course>Information Technology</course>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Kim Dichoso</name>
+    <course>Software Engineering</course>
+  </student>
+  <student>
+    <id>4</id>
+    <name>Ian Christoper Nebasa</name>
+    <course>Information System</course>
+  </student>
+  <student>
+    <id>5</id>
+    <name>Allyssa May Villaneuva</name>
+    <course>Information Technology</course>
+  </student>
+  <student>
+    <id>6</id>
+    <name>Miguel Reyes</name>
+    <course>Computer Science</course>
+  </student>
+  <student>
+    <id>7</id>
+    <name>Miguel Pineda</name>
+    <course>Software Engineer</course>
+  </student>
+  <student>
+    <id>8</id>
+    <name>Sky Raiden Bautista</name>
+    <course>Information System</course>
+  </student>
+  <student>
+    <id>9</id>
+    <name>Anakin Letim</name>
+    <course>Computer Engineering</course>
+  </student>
+  <student>
+    <id>10</id>
+    <name>Kyrlle Faustico</name>
+    <course>Entertainment Multimedia Computing</course>
+  </student>
+</students>
 
